@@ -1,1 +1,3 @@
-# World-GDP-Growth-Analysis
+# World-GDP-Growth-Analysis: A Survey by the IMF staff usually published twice a year. It presents IMF staff economists' analyses of global economic developments during the near and medium term. Chapters give an overview as well as more detailed analysis of the world economy; consider issues affecting industrial countries, developing countries, and economies in transition to market; and address topics of pressing current interest. Annexes, boxes, charts, and an extensive statistical appendix augment the text.
+The World Economic Outlook (WEO) database is created during the biannual WEO exercise, which begins in January and June of each year and results in the April and September/October WEO publication. Selected series from the publication are available in a database format. See also, the World Economic Outlook Reports. 
+link : https://www.imf.org/en/Publications/SPROLLs/world-economic-outlook-databases#sort=%40imfdate%20descending
